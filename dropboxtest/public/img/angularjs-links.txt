@@ -1,0 +1,13 @@
+Useful links-
+--------------------
+
+
+http://www.tutorialsteacher.com/angularjs/angularjs-directives
+http://tutorials.jenkov.com/angularjs/index.html
+http://www.w3schools.com/angular/ng_filter_date.asp
+http://tutorialspointexamples.com/angularjs-architecture-overview-core-concepts-advantages-disadvantages/
+
+https://docs.angularjs.org/api/ng/service/$sce
+https://docs.angularjs.org/guide/
+https://docs.angularjs.org/api/ng/provider/$interpolateProvider
+
